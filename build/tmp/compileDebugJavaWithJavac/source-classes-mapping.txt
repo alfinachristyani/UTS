@@ -1,0 +1,19 @@
+com/example/aplikasimenumakanan/Food.java
+ com.example.aplikasimenumakanan.Food
+ com.example.aplikasimenumakanan.Food$1
+com/example/aplikasimenumakanan/MainActivity.java
+ com.example.aplikasimenumakanan.MainActivity
+ com.example.aplikasimenumakanan.MainActivity$1
+com/example/aplikasimenumakanan/BuildConfig.java
+ com.example.aplikasimenumakanan.BuildConfig
+com/example/aplikasimenumakanan/ListFoodAdapter.java
+ com.example.aplikasimenumakanan.ListFoodAdapter
+ com.example.aplikasimenumakanan.ListFoodAdapter$1
+ com.example.aplikasimenumakanan.ListFoodAdapter$ListViewHolder
+ com.example.aplikasimenumakanan.ListFoodAdapter$OnItemClickCallback
+com/example/aplikasimenumakanan/DetailFood.java
+ com.example.aplikasimenumakanan.DetailFood
+com/example/aplikasimenumakanan/OnItemClickCallback.java
+ com.example.aplikasimenumakanan.OnItemClickCallback
+com/example/aplikasimenumakanan/FoodData.java
+ com.example.aplikasimenumakanan.FoodData
