@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Menu Makanan</string>
+    <string name="detail_makanan">Detail Makanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="detail">detail</string>
+    <string name="detailnama">detailnama</string>
+    <string name="harga">harga</string>
+    <string name="harga_makanan">harga_makanan</string>
+</resources>
